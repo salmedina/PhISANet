@@ -1,4 +1,5 @@
 # PhISANet
+### Phonetically Informed Speech Animation Network
 
 ![Model Diagram](images/model_diagram.png)
 
