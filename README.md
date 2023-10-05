@@ -8,4 +8,4 @@ As digital avatars become more prevalent, realistic animation is crucial for imm
 
 ## Media
 
-[Results video reel](https://drive.google.com/file/d/1bAPRfRS1lV17zcG38dqpKydMbFarNsUX/view?usp=sharing)
+![Results Video](https://drive.google.com/file/d/1bAPRfRS1lV17zcG38dqpKydMbFarNsUX/view?usp=drive_link)
