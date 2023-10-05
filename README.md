@@ -1,6 +1,6 @@
 # PhISANet
 
-[Model Diagram](iamges/model_diagram.png)
+[Model Diagram](images/model_diagram.png)
 
 ## Abstract
 
