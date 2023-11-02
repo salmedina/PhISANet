@@ -9,4 +9,4 @@ As digital avatars become more prevalent, realistic animation is crucial for imm
 
 ## Media
 
-[Results Video](https://drive.google.com/file/d/1bAPRfRS1lV17zcG38dqpKydMbFarNsUX/view?usp=drive_link)
+[Results Video]([https://drive.google.com/file/d/1bAPRfRS1lV17zcG38dqpKydMbFarNsUX/view?usp=drive_link](https://speechanim.s3.amazonaws.com/phisanet/PhISANet_demo_reel.mp4.mp4)https://speechanim.s3.amazonaws.com/phisanet/PhISANet_demo_reel.mp4.mp4)
