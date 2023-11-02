@@ -9,6 +9,9 @@ As digital avatars become more prevalent, realistic animation is crucial for imm
 
 ## Media
 ![Video](https://speechanim.s3.amazonaws.com/phisanet/PhISANet_demo_reel.mp4.mp4)
+
 <p align="center">
-  <img width="460" height="300" src="images/phisanet_splash.png">
+  <a href="https://speechanim.s3.amazonaws.com/phisanet/PhISANet_demo_reel.mp4.mp4">
+    <img width="460" height="300" src="images/phisanet_splash.png">
+  </a>
 </p>
